@@ -2,7 +2,7 @@
 The project is a web interface to a database with the implementation of СRUD operations over the list of employees.
 
 
-(You need to use MySQL to run the application.
+( You need to use MySQL to run the application.
 In the configuration of the DBMS, 2 scripts will help which are located in the "scripts_for_MySQL" project folder.)
 
 Block diagram for this project.
