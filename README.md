@@ -11,7 +11,13 @@ Block diagram for this project.
 
 
 What it looks like in a browser.
+
+
+
 ![alt text](https://github.com/firsovroman/SpringMVC_Hibernate_AOP/raw/main/pictures/2.png)
+
+
+
 
 
 ![alt text](https://github.com/firsovroman/SpringMVC_Hibernate_AOP/raw/main/pictures/3.png)
