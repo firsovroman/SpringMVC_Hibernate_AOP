@@ -1,5 +1,5 @@
 # SpringMVC_Hibernate_AOP
-This project can provide you with a web-interface with a database for creating a list of employees.
+The project is a web interface to a database with the implementation of СRUD operations over the list of employees.
 
 
 (You need to use MySQL to run the application.
